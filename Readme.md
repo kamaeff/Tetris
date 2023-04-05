@@ -12,5 +12,5 @@
 
 IDE: Vs Code
 
-Поддерживаемые платформы: Windows, Ubuntu
+Поддерживаемые платформы: Windows, Linux
 
